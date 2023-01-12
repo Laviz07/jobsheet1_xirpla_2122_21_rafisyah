@@ -1,0 +1,9 @@
+.about-container{
+    margin-top: auto;
+    display:flex; flex-direction:column;
+    flex: 1;
+}
+
+.about-title{
+    margin-top: 1rem;
+}

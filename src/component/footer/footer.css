@@ -1,0 +1,38 @@
+footer{
+    display: flex;
+    padding: 20px;
+    color: white;
+    background-color: black;
+    margin-top: auto;
+    bottom: 100px;
+}
+
+.sosmed-foot {
+    display: flex;
+    margin-left: 43px;
+    position: absolute;
+    right: 2%;
+}
+
+.sosmed-foot li{
+    margin-left: 13px;
+}
+
+.sosmed-foot svg{
+    width: 20px;
+    height: 20px;
+}
+
+.sosmed-foot svg:hover{
+   fill: white;
+}
+
+.up{
+    margin-left: 20px;
+}
+
+.up svg{   
+    width: 27px;
+    height: 27px;
+    margin-top: -5px;
+}
