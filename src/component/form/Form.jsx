@@ -3,7 +3,7 @@ import './form.css'
 
 const Form = () => {
   return (
-    <div>
+    <div className='about-container container'>
          <h1 className='soon'>
       COMING SOON....
     </h1>
